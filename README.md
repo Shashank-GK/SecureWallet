@@ -1,6 +1,3 @@
-﻿# SecureWallet
-
-
 # Secure Wallet
 
 Secure Wallet is a Spring Boot application designed to encrypt and store sensitive user data securely. This application follows a structured design pattern, incorporating controllers, services, repositories, utilities, and configurations.
